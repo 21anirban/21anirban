@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Anirban 👋
 
-<!--
-**21anirban/21anirban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Science & Engineering Student  
+💻 Aspiring Software Developer  
+📍 Kolkata, India
 
-Here are some ideas to get you started:
+## 🚀 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Data Structures & Algorithms
+- SQL
+- Git & GitHub
+- Spring Boot
+- React
+
+## 🎯 Current Goal
+
+Building strong programming fundamentals and developing real-world software projects.
+
+## 📂 Projects
+
+Currently building my Java and backend development portfolio.
+
+## 🔗 Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/anirban-ghosh-654728335/
